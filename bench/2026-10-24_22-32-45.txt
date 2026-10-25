@@ -1,0 +1,3 @@
+fps 45.0 | cuadro medio 22.2 ms, mediana 20.2 ms, 1% peor 39.9 ms, 0.1% peor 96.7 ms (2699 cuadros en 60 s)
+fps=true diag=false dump=false batchDraws=true gpuTiming=false smartPages=true gpuPack=false tlCache=true skipMarks=true pickEvery=3 bench=60
+bench=60 benchDelay=15 skipMarks=true

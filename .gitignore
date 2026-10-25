@@ -1,0 +1,19 @@
+# compilados y resultados locales
+build/
+lab/build/
+prof/
+backup/
+compat/
+cache/
+bench/*.mov
+bench/last-cine.log
+# NUNCA: shaders volcados (son codigo de Viewpoint, su licencia prohibe redistribuirlo)
+dump/
+# NUNCA: claves de firma
+*.der
+*.pem
+# varios
+*.jfr
+.DS_Store
+__pycache__/
+.lwjgl/

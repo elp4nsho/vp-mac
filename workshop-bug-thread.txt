@@ -1,0 +1,22 @@
+[h1]Bug reports — read me first[/h1]
+
+Thanks for testing VPMac! It is early, and every report helps.
+
+[h2]Crash or freeze?[/h2]
+Start the game again. A window will appear: "VPMac noticed that your last session ended badly".
+Click [b]Copy short report[/b] and paste it here as a reply. If you have more time, use [b]Copy full report[/b] and put it inside [code]...[/code] tags.
+
+[h2]Something looks wrong, but no crash?[/h2]
+Double-click [b]VPMac - Share report.command[/b] (comes with the mod), paste here, and describe what you saw. Screenshots help a lot.
+
+[h2]Please also tell us[/h2]
+[list]
+[*]What were you doing? (first person, driving, opening a menu, changing settings...)
+[*]Can you make it happen again? How?
+[*]Did you change any Viewpoint graphics settings?
+[/list]
+
+[h2]Privacy[/h2]
+Nothing is sent automatically. Reports hide your user name and Steam ID. You can read the report before pasting it (it is saved in ~/Zomboid/vpmac/reports/).
+
+One report per post, please, and check whether someone already posted the same "Known issue" line.
